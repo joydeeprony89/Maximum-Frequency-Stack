@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum Frequency Stack", "Maximum Frequency Stack\Maximum Frequency Stack.csproj", "{44846182-AB8E-4E94-8FCE-DD5F55A332BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44846182-AB8E-4E94-8FCE-DD5F55A332BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44846182-AB8E-4E94-8FCE-DD5F55A332BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44846182-AB8E-4E94-8FCE-DD5F55A332BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44846182-AB8E-4E94-8FCE-DD5F55A332BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D581920-7650-4E95-852C-E936E8CE64DF}
+	EndGlobalSection
+EndGlobal
